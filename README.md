@@ -1,1 +1,1 @@
-HashMap implementation in python
+HashMap implementation in Python.
